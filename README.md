@@ -5,7 +5,7 @@ Are you checking fifa matches in secret ? or watching youtube ? or what to buy f
 
 Tired of clicking those small close tab icons in hurry ? or closing the entire chrome window and have nothing to show if anyone comes around ?
 
-Worry not, now you can do all of the above with # CONFIDENCE
+Worry not, now you can do all of the above with **CONFIDENCE**
 
 Bringing you Rivv, a chrome extension which simply closes all unrelated tabs ( tabs that are not from stack overflow ) for you and also opens a new stackoverflow tab simultaneously 
 
