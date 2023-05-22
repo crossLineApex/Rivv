@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Rivv",
+    "description": "Testing mode: Rivv",
+    "version": "1.0",
+    "icons": {
+        "16": "ico-16.png",
+        "32": "ico-32.png",
+        "48": "ico-48.png",
+        "128": "ico-128.png"
+      },
+    "background":{
+    "service_worker" : "background.js"
+    },
+    "action": {
+        "default_icon": "ico-128.png"
+    },
+    "permissions": ["tabs",   
+     "activeTab"]
+}
