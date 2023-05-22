@@ -1,4 +1,4 @@
-# Rivv
+# Rivv ![Rivv-icon](./ico-128.png)
 A chrome extension for techies to save your web surfing if you are in public, especially office!!
 
 Are you checking fifa matches in secret ? or watching youtube ? or what to buy for your loved one ?  or instagram ? or reading comics ? or anything that you are not supposed to cause you are in office and you fear that your manager or seniors might create a scene if they get a look ?
